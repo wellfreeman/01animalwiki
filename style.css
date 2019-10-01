@@ -1,0 +1,69 @@
+
+#picture{float:right;margin-right:25px;position:relative ;}
+
+#box1 {height:530px;               width:250px;
+    margin-left:30px;margin-right:50px;padding:20px;padding-bottom:20px;border:2px solid black;}
+
+#title-class{margin-left:52px;padding-right: 1170px;}
+
+#picturehead{align:right;}
+
+h1 {padding-top: 75px;font-size:50px;}
+
+#picture{padding:20px 20px}
+
+h4{font-size:18px;border:1px  solid black;background-color:antiquewhite;}
+#left-b-img{padding-left:45PX;}
+
+
+#middle{
+    padding-left:30px;  
+    margin-right: 45px;
+    background-color:aliceblue;
+    width:900px;   
+    float:right;
+    top:-1377px;
+    position:relative; 
+    padding-right:40px;
+}
+
+.light{font-weight: 450;}
+
+
+
+#intro{float:left;margin-top: -400px}
+
+#1{border:2px solid black;}
+
+#video {top: 3500px;left:406px;float:left; position:absolute}
+
+
+#photo-gallery{float:left;top:1900px; position:absolute;margin-left:53px; padding-right:30px;}
+
+.borderimg{padding:5px;border: 2px solid black;}
+
+h5{float:right;}
+
+#homebutton {
+    left: 1380px;
+    top: 675px;
+    position: fixed;
+}
+
+#gif{float:left; left:60px;}
+
+
+#footer {
+    float: left; 
+    position: relative;
+    left:450px;
+    top: -600px;
+    width: 80%;
+    margin: 0 auto;
+}
+
+h1{color:firebrick}
+
+html {
+    height: 100%;
+}
