@@ -62,7 +62,8 @@ h5{float:right;}
     margin: 0 auto;
 }
 
-h1{color:firebrick}
+h1{color:firebrick;}
+h2{color:firebrick;}
 
 html {
     height: 100%; 
